@@ -216,3 +216,57 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# Entornos virtuales
+.venv/
+venv/
+env/
+ENV/
+bin/
+lib/
+include/
+
+# Jupyter Notebook y Checkpoints
+.ipynb_checkpoints/
+*/.ipynb_checkpoints/*
+checkpoint/
+*.ipynb_checkpoints
+
+# Caché de Python y compilados
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.pytest_cache/
+
+# Modelos entrenados y archivos binarios pesados (Serialización)
+*.pkl
+*.pickle
+*.h5
+*.joblib
+*.pth
+*.pt
+*.onnx
+
+# Datasets y archivos de datos (Evitar subir CSVs o ZIPs pesados)
+*.csv
+*.json
+*.xlsx
+*.zip
+*.tar.gz
+*.rar
+data/
+datasets/
+
+# Configuración de entornos y editores (VS Code / PyCharm)
+.vscode/
+.idea/
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.swp
+
+# Sistema operativo
+.DS_Store
+Thumbs.db
