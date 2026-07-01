@@ -38,7 +38,7 @@ machine-learning-portfolio/
 ### Nivel: Principiante (Beginner Projects)
 
 #### 1. Procesamiento de Texto e Imágenes
-- [ ] Detecting Spam Emails
+- [X] Detecting Spam Emails
 - [ ] SMS Spam Detection
 - [ ] Classification of Text Documents
 - [ ] Classify Handwritten Digits (k-NN / Logistic Regression)
