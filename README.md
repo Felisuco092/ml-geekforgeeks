@@ -39,17 +39,17 @@ machine-learning-portfolio/
 
 #### 1. Procesamiento de Texto e Imágenes
 - [X] Detecting Spam Emails
-- [ ] SMS Spam Detection
-- [ ] Classification of Text Documents
-- [ ] Classify Handwritten Digits (k-NN / Logistic Regression)
-- [ ] OCR of Handwritten digits
-- [ ] Recognizing HandWritten Digits
-- [ ] Identifying handwritten digits using Logistic Regression
-- [ ] Cartooning an Image
+- [X] SMS Spam Detection
+- [X] Classification of Text Documents
+- [X] Classify Handwritten Digits (k-NN / Logistic Regression)
+- [X] OCR of Handwritten digits
+- [X] Recognizing HandWritten Digits
+- [X] Identifying handwritten digits using Logistic Regression
+- [X] Cartooning an Image
 - [ ] Count number of Object
-- [ ] Count number of Faces
+- [X] Count number of Faces
 - [ ] Text Detection and Extraction
-- [ ] CIFAR-10 Image Classification
+- [X] CIFAR-10 Image Classification
 - [ ] Black and white image colorization
 - [ ] Handwritten Digit Recognition using Neural Network
 
