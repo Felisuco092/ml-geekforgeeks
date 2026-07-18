@@ -46,16 +46,16 @@ machine-learning-portfolio/
 - [X] Recognizing HandWritten Digits
 - [X] Identifying handwritten digits using Logistic Regression
 - [X] Cartooning an Image
-- [ ] Count number of Object
+- [X] Count number of Object
 - [X] Count number of Faces
 - [ ] Text Detection and Extraction
 - [X] CIFAR-10 Image Classification
 - [ ] Black and white image colorization
-- [ ] Handwritten Digit Recognition using Neural Network
+- [X] Handwritten Digit Recognition using Neural Network
 
 #### 2. Redes Sociales y Análisis de Sentimiento
-- [ ] Twitter Sentiment Analysis
-- [ ] Facebook Sentiment Analysis
+- [X] Twitter Sentiment Analysis
+- [X] Facebook Sentiment Analysis
 
 #### 3. Finanzas y Economía
 - [ ] Credit Card Fraud Detection
