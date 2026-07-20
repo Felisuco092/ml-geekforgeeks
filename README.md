@@ -25,7 +25,7 @@ machine-learning-portfolio/
 │
 ├── 01_beginners/            # Proyectos de Fundamentos (ML Clásico y Procesamiento de Señal)
 │   ├── 01_text_image/       # Clasificación estocástica, k-NN y procesamiento base
-│   ├── 02_social_media
+│   ├── 02_social_media/     # Sentiment analysis
 │   ├── 03_finance/          # Regresión lineal, polinómica y series temporales
 │   └── 04_retail/           # Clustering, segmentación y forecasting clásico
 │
