@@ -1,6 +1,6 @@
 # Machine Learning and Data Science Portfolio
 
-Este repositorio contiene el historial de proyectos y el desarrollo técnico enfocado hacia el rol de AI Engineer y Machine Learning Engineer. El objetivo principal es consolidar los fundamentos prácticos del aprendizaje automático clásico y profundo, conectando la experimentación en entornos de análisis de datos con scripts preparados para producción.
+Este repositorio contiene el historial de proyectos y el desarrollo técnico enfocado hacia el rol de AI Engineer y Machine Learning Engineer. El objetivo principal es consolidar los fundamentos prácticos del aprendizaje automático clásico y profundo, conectando la experimentación en entornos de análisis de datos con scripts preparados para producción. [Pagina ML](https://www.geeksforgeeks.org/machine-learning/machine-learning-projects/)
 
 ---
 
