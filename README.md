@@ -25,8 +25,9 @@ machine-learning-portfolio/
 │
 ├── 01_beginners/            # Proyectos de Fundamentos (ML Clásico y Procesamiento de Señal)
 │   ├── 01_text_image/       # Clasificación estocástica, k-NN y procesamiento base
-│   ├── 02_finance/          # Regresión lineal, polinómica y series temporales
-│   └── 03_retail/           # Clustering, segmentación y forecasting clásico
+│   ├── 02_social_media
+│   ├── 03_finance/          # Regresión lineal, polinómica y series temporales
+│   └── 04_retail/           # Clustering, segmentación y forecasting clásico
 │
 └── 02_advanced/             # Proyectos de Especialización (Deep Learning, NLP y Computer Vision)
     ├── 01_computer_vision/  # Arquitecturas convolucionales (CNN Custom, ResNet, Transfer Learning)
